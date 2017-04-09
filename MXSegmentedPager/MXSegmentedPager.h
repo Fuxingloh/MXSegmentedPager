@@ -22,6 +22,7 @@
 
 #import <UIKit/UIKit.h>
 #import <HMSegmentedControl/HMSegmentedControl.h>
+#import <MXParallaxHeader/MXScrollView.h>
 #import <MXPagerView/MXPagerView.h>
 #import <MXParallaxHeader/MXParallaxHeader.h>
 
