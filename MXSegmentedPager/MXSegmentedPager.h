@@ -209,6 +209,8 @@ typedef NS_ENUM(NSInteger, MXSegmentedControlPosition) {
  */
 @property (nonatomic, readonly) MXPagerView *pager;
 
+@property (nonatomic, readonly) MXScrollView *contentView;
+
 /**
  The padding from the top, left, right, and bottom of the segmentedControl
  */
